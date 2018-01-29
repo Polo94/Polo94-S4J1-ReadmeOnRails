@@ -44,7 +44,7 @@ Certaines gems proposeront simplement des extraits de code qui pourront être r�
 
 ```Le **Model View Controller** (_MVC_) est une architecture logicielle permettant d'organiser et traiter son code. Les interactions entre les trois modules (model, view, controller) permettront d'afficher la page web demandée par l'utilisateur.```
 
-![alt MVC](https://raw.githubusercontent.com/Polo94/Polo94-S4J1-ReadmeOnRails/master/food_car-2-512.png)
+![alt MVC](https://github.com/Polo94/Polo94-S4J1-ReadmeOnRails/blob/master/schema-mvc.png)
 
 -----
 
