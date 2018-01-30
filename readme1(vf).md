@@ -41,9 +41,9 @@ Certaines gems proposeront simplement des extraits de code qui pourront être r�
 
 ## Afficher sa page web
 
-### Fonctionnement du MVC
+### Fonctionnement du Model View Controller (MVC)
 
-```Le **Model View Controller** (_MVC_) est une architecture logicielle permettant d'organiser et traiter son code. Les interactions entre les trois modules (model, view, controller) permettront d'afficher la page web demandée par l'utilisateur.```
+```Le Model View Controller (MVC) est une architecture logicielle permettant d'organiser et traiter son code. Les interactions entre les trois modules (model, view, controller) permettront d'afficher la page web demandée par l'utilisateur.```
 
 ![alt MVC](https://github.com/Polo94/Polo94-S4J1-ReadmeOnRails/blob/master/schema-mvc.png)
 
@@ -88,9 +88,9 @@ Le CRUD permet d'afficher, créer, modifier et supprimer des articles. Il intera
 
 * La migration est l'adaptation d'une structure de données, en la faisant évoluer de façon à lui permettre de les adapter aux besoins de l'utilisateur lorsqu'il visite le site. Telles sont les mises à jour.
 
+[En cas de PLS](https://www.youtube.com/watch?v=caVUBl2UU3E&index=1&list=PL0TnHYy48T2w_341XcdDNcKFF307YB0KK)
 
-
-
+A bientôt
 
 
 
