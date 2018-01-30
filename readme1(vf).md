@@ -21,7 +21,7 @@
 
 - Ruby On Rails communénent surnommé Ror est un framework. 
 
-- Imaginons un restaurateur qui souhaite devenir mobile. RoR serait le Foodtruck fourni clé en main, tout équipé. Le lancement de son activité sera simplifié, plus qu'à démarrer puis cuisiner. ![alt foodtruck](https://github.com/Polo94/Polo94-S4J1-ReadmeOnRails/blob/master/foodtruck.jpg)
+- Imaginons un restaurateur qui souhaite devenir mobile. RoR serait le Foodtruck fourni clé en main, tout équipé. Le lancement de son activité sera simplifié, plus qu'à démarrer puis cuisiner. ![alt foodtruck](https://github.com/Polo94/Polo94-S4J1-ReadmeOnRails/blob/master/foodtruck2.png)
 
 
 	### Puissance de Ruby
