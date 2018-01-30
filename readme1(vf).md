@@ -1,5 +1,5 @@
 
-# PITCH RUBY ON RAILS (RoR)
+# RUBY ON RAILS (RoR) pour tous
 
 ---
 
