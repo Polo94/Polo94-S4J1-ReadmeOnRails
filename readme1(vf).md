@@ -66,7 +66,7 @@ La ligne de commande `rails route` tapée dans le terminal permet de voir l'éta
 
 	### Le CRUD (Create Read Update Destroy)
 
-Le *CRUD* est un système de manipulation de données d'une base de données (BDD). On pourrait le quailifer d'interface de gestion de données via les 4 opérations : CREATE, READ, UPDATE, DESTROY.
+Le *CRUD* est un système de manipulation de données d'une base de données (BDD). On pourrait le quailifer d'interface de gestion de données via les 4 opérations : CREATE (créer), READ (lire), UPDATE (mettre à jour), DESTROY (supprimer).
 
 Le CRUD permet d'afficher, créer, modifier et supprimer des articles. Il interagira donc avec les bases de données.
 
