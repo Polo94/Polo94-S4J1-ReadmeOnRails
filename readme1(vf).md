@@ -47,7 +47,6 @@ Certaines gems proposeront simplement des extraits de code qui pourront être r�
 
 ![alt MVC](https://github.com/Polo94/Polo94-S4J1-ReadmeOnRails/blob/master/schema-mvc.png)
 
------
 
 * Le **Model** est un gestionnaire qui structure les données dans les bases de données.
 
@@ -86,11 +85,13 @@ Le CRUD permet d'afficher, créer, modifier et supprimer des articles. Il intera
 
 ### Les migrations
 
-* La migration est l'adaptation d'une structure de données, en la faisant évoluer de façon à lui permettre de les adapter aux besoins de l'utilisateur lorsqu'il visite le site. Telles sont les mises à jour.
+* La migration est l'adaptation d'une structure de données, en la faisant évoluer de façon à lui permettre de les adapter aux besoins de l'utilisateur lorsqu'il visite le site. On peut prendre l'exemple des mises à jour.
 
-[En cas de PLS](https://www.youtube.com/watch?v=caVUBl2UU3E&index=1&list=PL0TnHYy48T2w_341XcdDNcKFF307YB0KK)
+*[En cas de PLS](https://www.youtube.com/watch?v=caVUBl2UU3E&index=1&list=PL0TnHYy48T2w_341XcdDNcKFF307YB0KK)*
 
-A bientôt
+
+
+_A bientôt_
 
 
 
